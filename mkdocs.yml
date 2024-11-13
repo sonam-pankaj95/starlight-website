@@ -1,0 +1,7 @@
+site_name: Starlight
+site_url: https://starlight-search.com
+theme:
+  name: material
+  palette:
+    primary: deep purple
+    accent: default
